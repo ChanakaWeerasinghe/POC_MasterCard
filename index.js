@@ -65,3 +65,4 @@ function outObj(item, key) {
 function err(value) {
 	console.error(value);
 }
+
